@@ -1,0 +1,5 @@
+{
+    "addr": ":8000",
+    "conn_string": "sqlserver://sa:kursPswd123@localhost:1433?database=TEST&connection+timeout=30"
+
+}
